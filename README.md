@@ -8,8 +8,8 @@
 
 `Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name.`
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+
+![elk_1.jpg](https://github.com/rfedyunin/hw_elk/blob/main/img/elk_1.jpg)
 
 
 ---
